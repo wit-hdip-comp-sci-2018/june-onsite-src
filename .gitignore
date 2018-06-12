@@ -2,3 +2,6 @@ private-site
 public-site-uk
 admin
 admin-ict
+
+# .DS_Store files
+.DS_Store
